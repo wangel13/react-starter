@@ -1,0 +1,6 @@
+{
+  "name": "HelloPage",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./HelloPage.js"
+}
